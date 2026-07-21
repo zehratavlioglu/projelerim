@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #172033;
+  background: #f5f7fb;
+}
+
+.hero {
+  min-height: 52vh;
+  padding: 24px;
+  color: white;
+  background:
+    linear-gradient(rgba(12, 25, 44, 0.72), rgba(12, 25, 44, 0.76)),
+    url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-position: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.hero-content {
+  max-width: 1100px;
+  margin: 90px auto 0;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  font-weight: 700;
+  color: #9ee7d8;
+}
+
+h1 {
+  margin: 0;
+  font-size: 56px;
+}
+
+.hero-content p {
+  max-width: 640px;
+  font-size: 19px;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 36px 24px 56px;
+}
+
+h2 {
+  margin: 0 0 18px;
+  font-size: 26px;
+}
+
+.skills {
+  margin-bottom: 38px;
+}
+
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skill-list span {
+  padding: 10px 14px;
+  border: 1px solid #d7deea;
+  border-radius: 8px;
+  background: white;
+  font-weight: 700;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.project-card {
+  min-height: 170px;
+  padding: 20px;
+  border: 1px solid #dce3ef;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 12px 30px rgba(23, 32, 51, 0.06);
+}
+
+.project-card h3 {
+  margin: 0 0 10px;
+  color: #165c7d;
+}
+
+.project-card p {
+  min-height: 54px;
+  margin: 0 0 16px;
+  line-height: 1.5;
+}
+
+.project-card span {
+  display: inline-block;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: #e9f7f4;
+  color: #196251;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+@media (max-width: 640px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  .hero-content {
+    margin-top: 64px;
+  }
+}
