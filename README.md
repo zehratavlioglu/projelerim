@@ -12,6 +12,7 @@ Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım
 | OdakSaati | Odaklanma ve çalışma zamanı takip uygulaması. | HTML, CSS, JavaScript |
 | KitapRota | Kitap okuma listesi ve durum takip uygulaması. | HTML, CSS, JavaScript |
 | RandevuTakip | Randevu, tarih-saat ve tamamlandı durumu takip uygulaması. | HTML, CSS, JavaScript |
+| YemekPlanlayici | Haftalık yemek planı, öğün takibi ve otomatik alışveriş listesi uygulaması. | HTML, CSS, JavaScript |
 | StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
 
 ## Not
