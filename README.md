@@ -14,6 +14,7 @@ Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım
 | RandevuTakip | Randevu, tarih-saat ve tamamlandı durumu takip uygulaması. | HTML, CSS, JavaScript |
 | YemekPlanlayici | Haftalık yemek planı, öğün takibi ve otomatik alışveriş listesi uygulaması. | HTML, CSS, JavaScript |
 | KisiRehberi | C# Windows Forms ile kişi ekleme, listeleme, seçme ve silme uygulaması. | C#, Windows Forms |
+| EtkinlikBiletim | Etkinlik, tarih, konum ve bilet durumu takip uygulaması. | HTML, CSS, JavaScript |
 | StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
 
 ## Not
