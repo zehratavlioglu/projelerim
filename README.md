@@ -17,6 +17,7 @@ Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım
 | EtkinlikBiletim | Etkinlik, tarih, konum ve bilet durumu takip uygulaması. | HTML, CSS, JavaScript |
 | KargoTakip | Sipariş, kargo firması, takip numarası ve teslim durumu takip uygulaması. | HTML, CSS, JavaScript |
 | FaturaKutusu | Fatura, tutar, son ödeme tarihi ve ödendi durumu takip uygulaması. | HTML, CSS, JavaScript |
+| SaglikNotu | Günlük sağlık notu, kategori, enerji puanı ve ilaç notu takip uygulaması. | HTML, CSS, JavaScript |
 | StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
 
 ## Not
