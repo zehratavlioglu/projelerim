@@ -19,6 +19,7 @@ Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım
 | FaturaKutusu | Fatura, tutar, son ödeme tarihi ve ödendi durumu takip uygulaması. | HTML, CSS, JavaScript |
 | SaglikNotu | Günlük sağlık notu, kategori, enerji puanı ve ilaç notu takip uygulaması. | HTML, CSS, JavaScript |
 | SinavPlani | Sınav, ders, tarih, öncelik ve çalışma durumu takip uygulaması. | HTML, CSS, JavaScript |
+| SeyahatListesi | Seyahat eşyası, kategori, önem durumu ve valiz hazırlık yüzdesi takip uygulaması. | HTML, CSS, JavaScript |
 | StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
 
 ## Not
