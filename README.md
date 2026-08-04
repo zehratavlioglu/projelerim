@@ -21,6 +21,7 @@ Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım
 | SinavPlani | Sınav, ders, tarih, öncelik ve çalışma durumu takip uygulaması. | HTML, CSS, JavaScript |
 | SeyahatListesi | Seyahat eşyası, kategori, önem durumu ve valiz hazırlık yüzdesi takip uygulaması. | HTML, CSS, JavaScript |
 | EvBakimTakibi | Ev bakım işi, kategori, son tarih, önem ve tamamlandı durumu takip uygulaması. | HTML, CSS, JavaScript |
+| ButceKategorileri | Aylık bütçe, kategori bazlı harcama ve kalan tutar takip uygulaması. | HTML, CSS, JavaScript |
 | StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
 
 ## Not
