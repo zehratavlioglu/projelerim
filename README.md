@@ -23,6 +23,7 @@ Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım
 | EvBakimTakibi | Ev bakım işi, kategori, son tarih, önem ve tamamlandı durumu takip uygulaması. | HTML, CSS, JavaScript |
 | ButceKategorileri | Aylık bütçe, kategori bazlı harcama ve kalan tutar takip uygulaması. | HTML, CSS, JavaScript |
 | NetHesaplayici | Doğru, yanlış, boş ve 4 yanlış 1 doğru götürür kuralına göre net hesaplama uygulaması. | HTML, CSS, JavaScript |
+| KursTakip | Online kurs, platform, ilerleme yüzdesi ve tamamlanma durumu takip uygulaması. | HTML, CSS, JavaScript |
 | StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
 
 ## Not
