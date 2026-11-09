@@ -1,32 +1,32 @@
-# Projelerim
+# My Projects
 
-Bu depo, yaptığım projelerin kısa tanıtımlarını içerir. Kod dosyalarım private depolarda saklanır; burada sadece proje isimleri, açıklamalar ve kullandığım teknolojiler yer alır.
+This repository contains short introductions to the projects I have built. My source code is kept in private repositories; only project names, descriptions and the technologies I used are listed here.
 
-## Proje Listesi
+## Project List
 
-| Proje | Açıklama | Teknolojiler |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| Planova | Görev ekleme, tamamlama, silme ve filtreleme uygulaması. | HTML, CSS, JavaScript |
-| DersPusula | Ders çalışma süresi ve konu takibi uygulaması. | HTML, CSS, JavaScript |
-| ParaPusula | Gelir, gider, bakiye ve kategori özeti uygulaması. | HTML, CSS, JavaScript |
-| OdakSaati | Odaklanma ve çalışma zamanı takip uygulaması. | HTML, CSS, JavaScript |
-| KitapRota | Kitap okuma listesi ve durum takip uygulaması. | HTML, CSS, JavaScript |
-| RandevuTakip | Randevu, tarih-saat ve tamamlandı durumu takip uygulaması. | HTML, CSS, JavaScript |
-| YemekPlanlayici | Haftalık yemek planı, öğün takibi ve otomatik alışveriş listesi uygulaması. | HTML, CSS, JavaScript |
-| KisiRehberi | C# Windows Forms ile kişi ekleme, listeleme, seçme ve silme uygulaması. | C#, Windows Forms |
-| EtkinlikBiletim | Etkinlik, tarih, konum ve bilet durumu takip uygulaması. | HTML, CSS, JavaScript |
-| KargoTakip | Sipariş, kargo firması, takip numarası ve teslim durumu takip uygulaması. | HTML, CSS, JavaScript |
-| FaturaKutusu | Fatura, tutar, son ödeme tarihi ve ödendi durumu takip uygulaması. | HTML, CSS, JavaScript |
-| SaglikNotu | Günlük sağlık notu, kategori, enerji puanı ve ilaç notu takip uygulaması. | HTML, CSS, JavaScript |
-| SinavPlani | Sınav, ders, tarih, öncelik ve çalışma durumu takip uygulaması. | HTML, CSS, JavaScript |
-| SeyahatListesi | Seyahat eşyası, kategori, önem durumu ve valiz hazırlık yüzdesi takip uygulaması. | HTML, CSS, JavaScript |
-| EvBakimTakibi | Ev bakım işi, kategori, son tarih, önem ve tamamlandı durumu takip uygulaması. | HTML, CSS, JavaScript |
-| ButceKategorileri | Aylık bütçe, kategori bazlı harcama ve kalan tutar takip uygulaması. | HTML, CSS, JavaScript |
-| NetHesaplayici | Doğru, yanlış, boş ve 4 yanlış 1 doğru götürür kuralına göre net hesaplama uygulaması. | HTML, CSS, JavaScript |
-| KursTakip | Online kurs, platform, ilerleme yüzdesi ve tamamlanma durumu takip uygulaması. | HTML, CSS, JavaScript |
-| YazilimSozlugu | Yazılım terimi, kategori, açıklama, arama ve favori takip uygulaması. | HTML, CSS, JavaScript |
-| StajFlow | Staj görevlerini ve günlük ilerlemeyi takip etmek için Flutter mobil uygulaması. | Flutter, Dart |
+| Planova | Task app for adding, completing, deleting and filtering tasks. | HTML, CSS, JavaScript |
+| StudyCompass (DersPusula) | Study time and topic tracking app. | HTML, CSS, JavaScript |
+| MoneyCompass (ParaPusula) | Income, expenses, balance and category summary app. | HTML, CSS, JavaScript |
+| FocusHour (OdakSaati) | Focus and study time tracking app. | HTML, CSS, JavaScript |
+| BookRoute (KitapRota) | Reading list and reading status tracking app. | HTML, CSS, JavaScript |
+| AppointmentTracker (RandevuTakip) | Appointment tracker with date, time and completion status. | HTML, CSS, JavaScript |
+| MealPlanner (YemekPlanlayici) | Weekly meal plan, meal tracking and automatic shopping list app. | HTML, CSS, JavaScript |
+| ContactBook (KisiRehberi) | Contact app for adding, listing, selecting and deleting contacts, built with C# Windows Forms. | C#, Windows Forms |
+| EventTicket (EtkinlikBiletim) | Event tracker with date, location and ticket status. | HTML, CSS, JavaScript |
+| ParcelTracker (KargoTakip) | Tracker for orders, shipping company, tracking number and delivery status. | HTML, CSS, JavaScript |
+| BillBox (FaturaKutusu) | Bill tracker with amount, due date and paid status. | HTML, CSS, JavaScript |
+| HealthNote (SaglikNotu) | Tracker for daily health notes, category, energy score and medication notes. | HTML, CSS, JavaScript |
+| ExamPlanner (SinavPlani) | Exam tracker with course, date, priority and study status. | HTML, CSS, JavaScript |
+| TravelChecklist (SeyahatListesi) | Packing tracker with items, category, importance and suitcase readiness percentage. | HTML, CSS, JavaScript |
+| HomeMaintenanceTracker (EvBakimTakibi) | Home maintenance tracker with category, due date, importance and completion status. | HTML, CSS, JavaScript |
+| BudgetCategories (ButceKategorileri) | Tracker for monthly budget, spending by category and remaining amount. | HTML, CSS, JavaScript |
+| NetScoreCalculator (NetHesaplayici) | Net score calculator based on correct, wrong and blank answers, where 4 wrong answers cancel out 1 correct answer (a scoring rule used in Turkish exams). | HTML, CSS, JavaScript |
+| CourseTracker (KursTakip) | Tracker for online courses, platform, progress percentage and completion status. | HTML, CSS, JavaScript |
+| DevGlossary (YazilimSozlugu) | Software glossary with terms, categories, descriptions, search and favorites. | HTML, CSS, JavaScript |
+| InternFlow (StajFlow) | Flutter mobile app for tracking internship tasks and daily progress. | Flutter, Dart |
 
-## Not
+## Note
 
-Bu sayfa bir portföy vitrini olarak hazırlanmıştır. Projelerin kaynak kodları private depolarda tutulur.
+This page is a portfolio showcase. The source code of the projects is kept in private repositories.
